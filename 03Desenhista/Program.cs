@@ -22,5 +22,5 @@ for(int i = 1 ; i <= p; i++)
 
 
 System.Console.WriteLine("");
-System.Console.WriteLine("<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>");
+System.Console.WriteLine("<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>");
 System.Console.WriteLine("Fim Algoritimo");
