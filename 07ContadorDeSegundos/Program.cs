@@ -5,7 +5,7 @@ Console.WriteLine("Será dado um número inteiro N que representa o tempo do eve
 Console.WriteLine("");
 Console.WriteLine("<<<<<<<<<< CONTADOR DE SEGUNDOS >>>>>>>>>>");
 Console.WriteLine("");
-Console.WriteLine("Digite um número");
+Console.WriteLine("Digite a quantidade de tempo em segundos");
 
 int n = int.Parse(Console.ReadLine());
 
