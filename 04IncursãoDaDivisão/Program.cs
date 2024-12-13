@@ -1,14 +1,4 @@
-﻿// using System;
-
-// int n int.Parse(Console.ReadLine());
-
-// int levi = n - 20;
-
-// int saldados = titans / 5 ;
-
-// Console.WriteLine(saldados);
-
-using System;
+﻿using System;
 
 class Program
 {
