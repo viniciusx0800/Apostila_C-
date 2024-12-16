@@ -1,0 +1,9 @@
+ // Lê os 4 valores (A, B, C, D) para cada gaiola
+string[] lados = Console.ReadLine().Split(); // Lê os 4 números na mesma linha, separados por espaço
+int A = int.Parse(lados[0]);
+int B = int.Parse(lados[1]);
+int C = int.Parse(lados[2]);
+int D = int.Parse(lados[3]);
+
+
+string[] lados = Console.ReadLine().Split(); // Lê os 4 números na mesma linha, separados por espaço
