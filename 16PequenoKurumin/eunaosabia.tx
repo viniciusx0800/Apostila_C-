@@ -7,3 +7,6 @@ int D = int.Parse(lados[3]);
 
 
 string[] lados = Console.ReadLine().Split(); // Lê os 4 números na mesma linha, separados por espaço
+
+
+double media = (N1 + N2 + N3 + N4 + N5) / 5.0;
