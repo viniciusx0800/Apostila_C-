@@ -10,3 +10,9 @@ string[] lados = Console.ReadLine().Split(); // Lê os 4 números na mesma linha
 
 
 double media = (N1 + N2 + N3 + N4 + N5) / 5.0;
+
+intervalo 
+
+Converte os valores dos intervalos de string para inteiros. x e y
+são os limites do 
+primeiro intervalo, e w e z são os limites do segundo intervalo.
