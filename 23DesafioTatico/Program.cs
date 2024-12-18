@@ -47,7 +47,7 @@
                 {
                     somaAtaque += ataque;
                     somaDefesa += defesa;
-                    validInput = true; // Entrada válida, sai do loop
+                    validInput = true; 
                 }
                 else
                 {
