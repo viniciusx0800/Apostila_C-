@@ -34,8 +34,7 @@
 
         for (int j = 0; j < S; j++)
         {
-            bool validInput = false;
-            while (!validInput)
+            
             {
                 Console.WriteLine($"Digite os valores de Ataque e Defesa do soldado {j + 1}:");
 
@@ -47,7 +46,7 @@
                 {
                     somaAtaque += ataque;
                     somaDefesa += defesa;
-                    validInput = true; 
+                    
                 }
                 else
                 {
