@@ -40,18 +40,12 @@
 
                 
                 string[] lados = Console.ReadLine().Split();
+                int ataque = int.Parse(lados[0]);
+                int defesa = int.Parse(lados[1]);
 
+                somaAtaque += ataque;
+                somaDefesa += defesa;
                 
-                if (lados.Length == 2 && int.TryParse(lados[0], out int ataque) && int.TryParse(lados[1], out int defesa))
-                {
-                    somaAtaque += ataque;
-                    somaDefesa += defesa;
-                    
-                }
-                else
-                {
-                    Console.WriteLine("Entrada inválida. Por favor, insira dois números inteiros (ataque e defesa).");
-                }
             }
         }
 
